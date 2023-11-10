@@ -1,113 +1,56 @@
 
-# Discord OwO Selfbot
+## Screenshots
 
-An Advanced OwO Selfbot Helps You To Earn Cowoncy Automatically!
++ Bước 1: Cài file python tại [Đây](https://www.python.org/downloads/release/python-3120/) hoặc cài file có sẵn trong file tải xuống
 
-* ### [Download Lastest Release](https://github.com/ahihiyou20/discord-selfbot-owo-bot/tags)
-[![GitHub issues](https://img.shields.io/github/issues/ahihiyou20/discord-selfbot-owo-bot?label=Open%20%C4%B0ssues)](https://github.com/ahihiyou20/discord-selfbot-owo-bot/issues)
-[![GitHub forks](https://img.shields.io/github/forks/ahihiyou20/discord-selfbot-owo-bot)](https://github.com/ahihiyou20/discord-selfbot-owo-bot/network)
-[![GitHub stars](https://img.shields.io/github/stars/ahihiyou20/discord-selfbot-owo-bot)](https://github.com/ahihiyou20/discord-selfbot-owo-bot/stargazers)
++ Bước 2: Cài git tại [Đây](https://git-scm.com/downloads) (Chỉ sử dụng cho cài file code bằng command git)
 
-
-
-## WARNING
-
-#### This Project Is For Education Purpose! Selfbot are against Discord's ToS and against OwO's Rules! Use It At Your Own Risk!
-
-
-## Authors
-
-- [@ahihiyou20](https://www.github.com/ahihiyou20)
-
-
-## Features
-
-- Automatically Stop If Captcha Is Asked And Sent Through Discord Webhook
-- Automatically Use Gems
-- Automatically Send Random Quotes To Increase EXP
-- Automatically Change Channel
-- Automatically Pray
-- Automatically Stop After A Period Time
-- Automatically Send Hunt And Battle
-- Automatically Sell Animals For Cowoncy
-- Automatically Claim Daily
-- Automatically Solve Captcha (Beta)
-- Cross platform (Windows, Linux, ...)
-- And MORE...!
-## Installation
-
-Install discord-selfbot-owo-bot with Python and Github
-
-Clone The Project
-
++ Bước 3: Cài file code(Trong trường hợp không tải file trực tiếp trên github) bằng dòng lệnh sau:
 ```bash
-  git clone https://github.com/ahihiyou20/discord-selfbot-owo-bot.git
+  git clone https://github.com/bebapbapbeo1310/Tool-Farm-OwO-Selfbot.git
 ```
-
-Go To The Project Directory
-
-```bash
-  cd discord-selfbot-owo-bot/source
-```
-
-Install Dependencies
-
++ Bước 4: Cài thư viện cần thiết:
 ```bash
   python -m pip install -r requirements.txt
 ```
-
-Start Your Own Selfbot
-
++ Bước 5: Chạy file code:
 ```bash
   python main.py
 ```
+#### Nó có thể kiếm được bao nhiêu tiền trong một ngày?
 
-Or
+Khoảng 1.500.000 Cowoncys với Mythical + Gems
 
-```bash
- cd discord-selfbot-owo-bot/main
-```
+#### Selfbot này có thể chạy hiệu quả trên các tài khoản mới không?
 
-Start Your Selfbot
+Không, Selfbot này không thể chạy hiệu quả trên các tài khoản mới. Trước tiên, bạn cần ít nhất một đội chiến đấu và một số đá quý vì Selfbot này không thể tạo một tài khoản hoàn hảo từ con số 0.
 
-```bash
- Auto.exe
-```
-    
-## FAQ
+#### Tôi có thể bị cấm khỏi OwO không?
 
-#### How Much Money It Can Earn In One Day?
+Có, chỉ khi bạn không giải được mã xác thực từ OwO. Selfbot này sẽ tự động nếu được hỏi Captcha. Nhưng Bạn Vẫn Cần Phải Giải Quyết Nó
 
-Around 1.500.000 Cowoncys With Mythical+ Gems
+#### Tôi có thể chạy nó bằng điện thoại Android của mình không?
 
-#### Can This Selfbot Run Efficiency On New Accounts?
+Có, Ứng dụng Termux có thể chạy mã Python và các ngôn ngữ lập trình khác như Git hoặc Javascript. Bạn có thể sử dụng nó để cài đặt Selfbot với hướng dẫn cụ thể. Thông tin thêm: https://termux.com/
 
-Nope, This Selfbot Can't Run Efficiency On New Accounts. You Need Atleast A Battle Team And Some Gems First Because This Selfbot Can't Build A Perfect Account From Zero.
-
-#### Can I Get Banned From OwO?
-
-Yes, Only If You Don't Solve The Captcha From OwO. This Selfbot Will Automatically If Captcha Is Asked. But You Still Need To Solve It
-
-#### Can I Run It With My Android Phone?
-
-Yes, Termux Apps Can Run Python Codes And Others Programming Language Like Git Or Javascript. You Can Use It To Install The Selfbot With The Given Tutorial. More Information: https://termux.com/
-
-Have More Questions? Feel Free To Open Issues Or Contact Me On Discord: Saki Saki#0348 
+Có nhiều câu hỏi hơn không? Vui lòng mở các vấn đề hoặc liên hệ với tôi trên Discord: @minerwolfybtvn
 ## License
 
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 
 ## Screenshots
-
-![Preview](https://cdn.discordapp.com/attachments/963047907030892558/977820177171382312/Screenshot_20220522-132751_Termux.jpg)
 ![Preview 2](https://cdn.discordapp.com/attachments/915258272179707964/977823708754366474/Screenshot_20220522-134105_Termux.jpg)
 
 
 ## Contributing
 
-Contributions Are Always Welcome!
+Đóng góp luôn được chào đón!
 
-To Get Started, Create An Issue And I Will Reply As Soon As I Can!
+Để bắt đầu, hãy tạo một vấn đề và tôi sẽ trả lời ngay khi có thể!
 
-Thanks.
+Cảm ơn.
+## Chú ý:
+Bản code được phát triển dựa trên mã nguồn mở có sẵn của [@ahihiyou20](https://www.github.com/ahihiyou20) , cải tiến và chỉnh sửa bởi [Minerwolfybt](https://www.youtube.com/@minerwolfybtvn), bất cứ hành động buôn bán hay quảng cáo nào đều nghiêm cấm dưới mọi hình thức!
+
+
