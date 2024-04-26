@@ -39,7 +39,7 @@
     All illegal trading activities are strictly prohibited
 ### More Information
 [Virus Total](https://www.virustotal.com/gui/file/96471a36e14db8c41f526a626241593cb0ef476e0859f218f79c6b3f704cb559)\
-[Download here](https://web1s.io/TDp1PD4e0R)
+[Download here](https://web1s.io/ItHOmXuM2v)
 
 ## FAQ
 #### Q: Vì sao trên Virus Total lại hiển thị có 13 Trình diệt Virus [ATV] phát hiện rằng đó là trojan HEUR:Trojan.Python.Gidis.a?
